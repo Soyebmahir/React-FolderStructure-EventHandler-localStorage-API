@@ -1,0 +1,10 @@
+.card {
+    background-color: aqua;
+    margin: 20px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
